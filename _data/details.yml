@@ -67,6 +67,11 @@
   presenter: "Yuqi Liu"
   filename: "binary_classification_keras_theano"
 
+- title: "Regression of Boston House Price using Keras and Theano"
+  description: "A presentation about using deep nueral network to predict Boston House Price implemented in Keras and Theano"
+  presenter: "Yifan Jiang"
+  filename: "nn_regression_keras_theano"
+
 - title: "Object Recognition in Photographs Using CNNs"
   description: "Project: experimentation with different CNN architectures and parameters to improve performance using the CIFAR-10 dataset."
   presenter: "Changning Shou & Jun Yong Go"
